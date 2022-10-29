@@ -1,0 +1,6 @@
+@media (min-width: 1024px) {
+  .largeflex {
+    display: flex !important;
+    flex-direction: row !important;
+  }
+}
